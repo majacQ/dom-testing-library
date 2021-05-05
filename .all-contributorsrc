@@ -1020,7 +1020,8 @@
         "doc",
         "code",
         "test",
-        "review"
+        "review",
+        "infra"
       ]
     },
     {
@@ -1365,6 +1366,15 @@
       "name": "Matan Borenkraout",
       "avatar_url": "https://avatars.githubusercontent.com/u/12711091?v=4",
       "profile": "https://matan.io",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "simcha90",
+      "name": "simcha90",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56388545?v=4",
+      "profile": "https://github.com/simcha90",
       "contributions": [
         "code"
       ]
